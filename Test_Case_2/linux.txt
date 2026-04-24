@@ -17,8 +17,6 @@ ls -l index.html
 
 chmod 777 index.html
 
-ls -l index.html
-
 sudo chown www-data:www-data index.html
 
 chmod 755 index.html
