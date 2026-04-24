@@ -1,11 +1,8 @@
-# KIET_DevOps_DebugChallenge
-
 # DevOps Exam — Test Cases
 ### KIET Group of Institutions | Even Sem 2026
 
 
 ## Test Case 2 — File Permission Configuration
-
 
 **Scenario:** A web server requires a properly configured `index.html` file with specific ownership and access permissions.
 
@@ -33,7 +30,6 @@
 
 ## Test Case 3 — Node.js Application Setup & Git Integration
 
-
 **Scenario:** You are setting up a new Node.js REST API from scratch and publishing it to GitHub.
 
 ### Tasks
@@ -57,7 +53,6 @@
 ---
 
 ## Test Case 4 — Docker & Containerization
-
 
 **Scenario:** The Node.js API from Test Case 3 must be packaged into a Docker container for consistent deployment.
 
